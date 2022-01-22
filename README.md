@@ -6,6 +6,8 @@ The purpose of this project is to replace the math scores and reading scores for
 
 ## Results
 
+### District Summary
+
 Only math and reading scores for 9th graders at Thomas High School data portion was removed. Thus, the data did not change a lot from the original analysis. As we can see in the images below the the math passing percentage dropped 0.2% and the reading passing percentage dropped 0.3%.
 
 * PyCitySchools Analysis
