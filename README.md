@@ -15,3 +15,12 @@ Only math and reading scores for 9th graders at Thomas High School data portion 
 
 * PyCitySchools_Challenge Analysis
 ![image](https://user-images.githubusercontent.com/95327338/150500386-51efacc5-82ba-4ecf-b405-4892552fe2e0.png)
+
+### School Summary
+
+
+* PyCitySchools Analysis
+![image](https://user-images.githubusercontent.com/95327338/150618246-35bedf19-3a38-4373-92b1-3d0fc046f9de.png)
+
+* PyCitySchools_Challenge Analysis
+![image](https://user-images.githubusercontent.com/95327338/150618205-9ece34c2-89fe-4f46-939e-482f01569438.png)
