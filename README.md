@@ -37,13 +37,12 @@ The four changes in the updated school district analysis after reading and math 
 
   1. The % passing Math decreased from 93.27% to 93.18%.
   2. The % passing Reading decreased from 97.3% to 97%.
-  3. The % overall passing school summary
-  4. The % passing Reading district summary
+  3. The % overall passing school summary decreased from 90.43% to 90.39%
+  4. The % overall passing district summary did not change. 
 
 ![image](https://user-images.githubusercontent.com/95327338/150620910-f346e5cc-4e4a-4ffe-9cd6-35ba0b58f361.png)
 
-
-![image](https://user-images.githubusercontent.com/95327338/150620889-266289d0-c85a-43bf-8de4-5b226ca7156c.png)
+![image](https://user-images.githubusercontent.com/95327338/150620991-3801ac8e-8a2c-4525-a96f-5d2704191b87.png)
 
 
 
