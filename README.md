@@ -27,5 +27,7 @@ Only math and reading scores for 9th graders at Thomas High School data portion 
 
 Replacing the ninth grader's math and reading scores did not affect Thomas High School's performance relative to other schools. It kept as second place after all. 
 
-![image](https://user-images.githubusercontent.com/95327338/150618875-1bb73916-7af1-4eee-9fbc-e158f7cc0bb6.png)
+![image](https://user-images.githubusercontent.com/95327338/150618933-09d14c3f-7f27-4d7e-9bc0-2d6da3281c2d.png)
+
+
 
