@@ -40,10 +40,10 @@ The four changes in the updated school district analysis after reading and math 
   3. The % overall passing school summary decreased from 90.43% to 90.39%
   4. The % overall passing district summary did not change. 
 
-* PyCitySchools Analysis
+*PyCitySchools Analysis
 ![image](https://user-images.githubusercontent.com/95327338/150620910-f346e5cc-4e4a-4ffe-9cd6-35ba0b58f361.png)
 
-* PyCitySchools_Challenge Analysis
+*PyCitySchools_Challenge Analysis
 ![image](https://user-images.githubusercontent.com/95327338/150620991-3801ac8e-8a2c-4525-a96f-5d2704191b87.png)
 
 
